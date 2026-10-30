@@ -24,7 +24,7 @@
             "notifyStreakLoss": false
         },
         "pray": {
-            "enabled": false,
+            "enabled": true,
             "cooldown": [
                 310,
                 400
@@ -192,7 +192,7 @@
             "amount": 30000
         },
         "coinflip": {
-            "enabled": false,
+            "enabled": true,
             "startValue": 200,
             "multiplierOnLose": 2,
             "cooldown": [
